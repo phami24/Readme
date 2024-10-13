@@ -135,3 +135,6 @@ const res = await fetch("http://localhost:3000/api/proxy");
 ## Kết luận
 
 Bằng cách sử dụng `getServerSideProps` của Next.js, chúng ta có thể tối ưu SEO khi làm việc với backend riêng biệt. Phương pháp này đảm bảo rằng nội dung được render ở server-side, cung cấp HTML đầy đủ cho search engines và cải thiện trải nghiệm người dùng.
+
+## Để hiểu thêm về Client Rendering và Server Rendering, xem thêm [tại đây](https://chatgpt.com/share/670c2e59-7234-800a-894b-9ef569847a04).
+

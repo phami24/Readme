@@ -1,6 +1,6 @@
 # Tối ưu SEO với Next.js và Backend Node.js
 
-Dự án này minh họa cách tối ưu SEO khi sử dụng Next.js kết hợp với backend Node.js, so sánh với phương pháp gọi API thông thường.
+Bài viết này minh họa cách tối ưu SEO khi sử dụng Next.js kết hợp với backend Node.js, so sánh với phương pháp gọi API thông thường.
 
 ## Cấu trúc dự án
 
